@@ -1,0 +1,1 @@
+# rest-assured-schema-validation
